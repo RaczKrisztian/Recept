@@ -2,7 +2,7 @@
   <div>
     <NavBar />
     <div class="container mt-4">
-     
+     <!-- Keresés -->
       <div class="row mb-3">
         <div class="col-md-4">
           <input
@@ -17,6 +17,7 @@
             class="form-select"
             v-model="selectedDifficulty"
           >
+          <!-- Rendezés -->
             <option value="">Minden nehézség</option>
             <option value="Könnyű">Könnyű</option>
             <option value="Közepes">Közepes</option>
