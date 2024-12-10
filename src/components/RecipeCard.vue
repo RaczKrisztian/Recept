@@ -53,8 +53,8 @@
   <style>
   .recipe-card {
     width: 100%;
-    max-width: 350px; /* Növelt szélesség */
-    height: 420px; /* Kissé magasabb kártyák */
+    max-width: 350px; 
+    height: 420px; 
     display: flex;
     flex-direction: column;
     justify-content: space-between;
