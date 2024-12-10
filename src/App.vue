@@ -67,9 +67,9 @@ export default {
   },
   data() {
     return {
-      searchTerm: "",
-      selectedDifficulty: "",
-      selectedSort: "",
+      searchTerm: "", // Keresési mező
+      selectedDifficulty: "", // Kiválasztott nehézség
+      selectedSort: "", // Kiválasztott rendezés
       recipes,
     };
   },
